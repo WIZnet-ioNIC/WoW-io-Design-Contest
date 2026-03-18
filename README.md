@@ -1,5 +1,7 @@
 # WoW-io-Design-Contest
 
+> This repository is a reference example for the [WOW (Wiz of Wiznetian) Contest](https://maker.wiznet.io/contest/wow). For contest details and more information, see the contest page above.
+
 ![](/static/image/20260225_WoW-ioDesignContest_maker(3840x1000).jpg)
 
 WoW io Design Contest is an invite-only challenge for WoW (Wiz of Wiznetian) members—WIZnet’s curated membership program for key makers and influencers.
