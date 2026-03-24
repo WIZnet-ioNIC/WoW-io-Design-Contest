@@ -13,9 +13,9 @@ Selected WoWs will receive everything needed to build and publish a standout ioN
 
 ## What WoWs Get
 ### FREE Full Kit (All 3 Included)
-- WIZ-IP20 + io board
-- W55RP20-Arduino-Shield
-- W55RP20-EVB-Pico
+- [WIZ-IP20 + io board](https://docs.wiznet.io/Product/Modules/Serial-to-Ethernet-Module/WIZ-IP20/ip20-io)
+- [W55RP20-Arduino-Shield](https://docs.wiznet.io/Product/Chip/MCU/W55RP20/w55rp20-arduino)
+- [W55RP20-EVB-Pico](https://docs.wiznet.io/Product/Chip/MCU/W55RP20/w55rp20-evb-pico)
 
 ### Member-Only Perks
 - Priority access to new product samples
